@@ -6,3 +6,4 @@
 * new new logic added
 * test for rebase
 * test for again rebase
+* test for reset
