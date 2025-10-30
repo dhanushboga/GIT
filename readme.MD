@@ -7,3 +7,4 @@
 * test for rebase
 * test for again rebase
 * test for reset
+* test for reset changes
